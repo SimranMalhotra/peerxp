@@ -4,11 +4,11 @@
 
 
 Template Name : Zenda
-Description : Professional & Creative Multipurpose Responsive Business HTML5 Template 
+Description : Professional & Creative Multipurpose Responsive Business HTML5 Template
 Version : 1.0
 Author : Naveen Kumar
 
-IF YOU NEED ANY KIND OF HELP REGARDING TO THIS TEMPLATE 
+IF YOU NEED ANY KIND OF HELP REGARDING TO THIS TEMPLATE
 SO, DIRECT E-MAIL US AT :- naveenkumarwp@gmail.com
 
 
@@ -89,10 +89,10 @@ body {
   color: #535353;
 }
 a {
-  color: #1ABC9C;
+  color: #3366ff;
 }
 a:hover {
-  color: #1ABC9C;
+  color: #3366ff;
   text-decoration: none;
 }
 p {
@@ -114,7 +114,7 @@ textarea {
   max-width: 100%;
 }
 .text-primary {
-  color: #1ABC9C;
+  color: #3366ff;
 }
 .text-light {
   color: #7E878F;
@@ -152,13 +152,13 @@ textarea {
 }
 .btn-custom {
   background-color: transparent;
-  border-color: #1ABC9C;
-  color: #1ABC9C;
+  border-color: #3366ff;
+  color: ;
 }
 .btn-custom:hover {
   color: #fff;
-  background-color: #1ABC9C;
-  border-color: #1ABC9C;
+  background-color: #3366ff;
+  border-color: #3366ff;
 }
 .form-control,
 .form-control:focus {
@@ -342,11 +342,11 @@ section.grey {
 .form-control::-o-input-placeholder { color: #E3E3E3; }
 
 ::-moz-selection {
-	background-color: #1ABC9C;
+	background-color: #3366ff;
 	color: #fff;
 	}
 ::selection {
-	background-color: #1ABC9C;
+	background-color: #3366ff;
 	color: #fff;
 	}
 
@@ -443,7 +443,7 @@ section.grey {
   margin: -60px 0 0 -60px;
   border: 15px solid;
   border-color: rgba(33, 33, 33, 0.1);
-  border-left-color: #1ABC9C;
+  border-left-color: #3366ff;
 }
 
 .site-loader p {
@@ -532,7 +532,7 @@ section.grey {
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: #1ABC9C url(../images/back-to-top.svg) no-repeat center 50%;
+  background: #3366ff url(../images/back-to-top.svg) no-repeat center 50%;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: opacity .3s 0s, visibility 0s .3s;
@@ -643,13 +643,13 @@ section.grey {
   font-size: 28px;
 }
 #logo > a h2 i {
-	color: #1ABC9C;
+	color: #3366ff;
 }
 #nav {
   float: right;
 }
 .login-bg-color {
-	background-color: #1ABC9C;
+	background-color: #3366ff;
 }
 
 @media (max-width: 767px) {
@@ -782,7 +782,7 @@ section.grey {
   display: inline-block;
   margin-bottom: 40px;
   padding: 10px;
-  color: #1ABC9C;
+  color: #3366ff;
   background: #fff;
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
@@ -821,11 +821,11 @@ section.grey {
   transform: scale(0);
 }
 .service-item:hover {
-  border-color: #1ABC9C;
+  border-color: #3366ff;
 }
 .service-item:hover i {
   top: -30px;
-  border-color: #1ABC9C;
+  border-color: #3366ff;
 }
 .service-item:hover h5 {
   top: -30px;
@@ -1105,7 +1105,7 @@ section.grey {
 .progress .color3 .bar-width{
   background: #db3615;
 }
-.progress, 
+.progress,
 .progress-bar {
   height: 2px;
   line-height: 15px;
@@ -1423,7 +1423,7 @@ section.grey {
 	line-height:20px;
 	text-align:center;
 	margin-right:0px;
-	
+
 }
 .social-icons {
 	float:left;
@@ -1549,7 +1549,7 @@ section.grey {
 #counter_area{
     color: #FFF;
      background: #fdd62d;
-    position: relative; 
+    position: relative;
     margin: 0 auto;
     width: 100%;
     overflow:hidden;
@@ -1563,7 +1563,7 @@ section.grey {
 }
 
 .facts-wrap{
-    position: relative; 
+    position: relative;
     width: 180px;
     height: 180px;
     margin: 0px auto 10px;
@@ -1576,20 +1576,20 @@ section.grey {
     padding-top:15px;
     text-transform:uppercase;
     text-align:center;
-    letter-spacing:2px; 
+    letter-spacing:2px;
     line-height:18px;
     color: #ffffff!important;
     margin-top: 15px;
 }
 .facts-wrap-num{
     color:#fff;
-    font-size: 25px; 
+    font-size: 25px;
     line-height:60px;
     width:100%;
     margin:0 auto;
     text-align:center;
     margin-top: -40px;
-}  
+}
 
 .graph {
     width: 180px;
@@ -1714,12 +1714,12 @@ section.grey {
 }
 .pricing-table:hover,
 .pricing-table.selected {
-  border-color: #1ABC9C;
+  border-color: #3366ff;
 }
 .pricing-table:hover .price,
 .pricing-table.selected .price {
-  border-color: #1ABC9C;
-  color: #1ABC9C;
+  border-color: #3366ff;
+  color: #3366ff;
 }
 .pricing-table h3 {
   font-size: 15px;
@@ -1830,7 +1830,7 @@ section.grey {
 	text-align:center;
 	padding:25px 20px 27px 20px;
 	color:#fff;
-	background: #1ABC9C;
+	background: #3366ff;
 }
 
 .price_item_title {
@@ -1842,7 +1842,7 @@ section.grey {
     line-height: 30px;
 	font-weight:400;
     padding: 0;
-    margin: 0;    
+    margin: 0;
 	color:#fff;
 }
 
@@ -1867,7 +1867,7 @@ section.grey {
 }
 
 .price_item_body {
-	padding:15px 20px 0 20px;    
+	padding:15px 20px 0 20px;
 	background-color:#fafafa;
 }
 
@@ -1961,7 +1961,7 @@ section.grey {
 }
 #filters > li:hover,
 #filters > li.active {
-  color: #1ABC9C;
+  color: #3366ff;
 }
 #works-list {
   margin-top: 50px;
@@ -2132,7 +2132,7 @@ section.grey {
   content: "-";
   position: absolute;
   left: 0;
-  color: #1ABC9C;
+  color: #3366ff;
 }
 .Responsive-showcase-style {
   margin: 30px 0 20px 0px;
@@ -2294,7 +2294,7 @@ section.grey {
 .clients-logo .logo-item>a:hover>img {
   opacity:1;
 }
-.clients-logo div:nth-child(3) .logo-item>a,.clients-logo div:nth-child(6) .logo-item>a,.clients-logo div:nth-child(9) .logo-item>a {    border-right:none; 
+.clients-logo div:nth-child(3) .logo-item>a,.clients-logo div:nth-child(6) .logo-item>a,.clients-logo div:nth-child(9) .logo-item>a {    border-right:none;
 }
 .clients-logo div:nth-of-type(n+7) .logo-item>a {
   border-bottom:none;
@@ -2530,7 +2530,7 @@ section#contact .form-text h4 {
 	margin: -10px 0 5px;
 }
 .tabs-circle-top .tab a:hover {
-	/*border: 4px solid #1ABC9C;*/
+	/*border: 4px solid #3366ff;*/
 	background-color: #F5F7FA;
 	border-color: #dedede !important;
 }
@@ -2541,11 +2541,11 @@ section#contact .form-text h4 {
 	height: 160px;
 	width: 160px;
 	max-width: 160px;
-    background: #1ABC9C;
+    background: #3366ff;
 	font-size: 15px;
 	line-height: 140%;
 	color: #FFF;
-	border: 1px solid #1ABC9C;
+	border: 1px solid #3366ff;
 }
 .tabs-circle-top .tab.active a:hover {
 	border-color: transparent !important;
@@ -2795,7 +2795,7 @@ section#contact .form-text h4 {
   line-height: 58px;
   margin-top: -33px;
   margin-left: -43px;
-  background-color: #1ABC9C;
+  background-color: #3366ff;
   font-size: 30px;
   text-align: center;
   border-radius: 3px;
@@ -3049,7 +3049,7 @@ section#contact .form-text h4 {
   top: 0px;
   left: 1px;
   background-color: #fff;
-  color: #1ABC9C;
+  color: #3366ff;
 }
 .subscribe-form .subscribe-title {
   font-size: 30px;
@@ -3068,7 +3068,7 @@ section#contact .form-text h4 {
   margin-top: 25px;
 }
 .subscribe-bg-color {
-	background-color: #1ABC9C;
+	background-color: #3366ff;
 }
 .subscribe-bg-image {
 	background-image: url("../images/bg/bg.jpg");
@@ -3227,7 +3227,7 @@ section#contact .form-text h4 {
 
 
 /* FEATURE WITH IPHONE SLIDER
--------------------------------------------------------------- */	
+-------------------------------------------------------------- */
 .wrapper-iphone {
     position: relative;
     margin-top: 20px;
@@ -3314,7 +3314,7 @@ section#contact .form-text h4 {
 }
 .ext-feature:hover .ft-icon {
   background-color: #fff;
-  color: #1ABC9C;
+  color: #3366ff;
 }
 .ext-feature.ext-feature-dark {
   color: #8b9599;
@@ -3416,7 +3416,7 @@ section#contact .form-text h4 {
   transition: background 0.2s, color 0.2s;
 }
 #why-choose-us .box-item .icon i {
-  color: #1ABC9C;
+  color: #3366ff;
   font-size: 50px;
   line-height: 60px;
   -webkit-transition: all 0.2s linear;
@@ -3442,7 +3442,7 @@ section#contact .form-text h4 {
   -ms-transform:rotate(360deg) scale(1.3);
   -webkit-transform:rotate(360deg) scale(1.3);
   -moz-transform:rotate(360deg) scale(1.3);
-  -o-transform:rotate(360deg) scale(1.3); 
+  -o-transform:rotate(360deg) scale(1.3);
   transition-duration:2s;
   -webkit-transition-duration:2s;
   -moz-transition-duration:2s;
@@ -3515,7 +3515,7 @@ section#contact .form-text h4 {
   border: 4px double;
   line-height: 72px;
   text-align:center;
-  background: #1ABC9C;
+  background: #3366ff;
   color: #FFFFFF;
   float: left;
   margin-right: 25px;
@@ -3537,9 +3537,9 @@ section#contact .form-text h4 {
 }
 
 .feature-wrap:hover i {
-  color: #1ABC9C;
+  color: #3366ff;
   font-size: 35px;
-  border-color: #1ABC9C;
+  border-color: #3366ff;
   border: 0px;
   background-color: transparent;
  -webkit-transform: rotate(360deg) scale(1.5);
@@ -3560,14 +3560,14 @@ section#contact .form-text h4 {
 /* GOOGLE MAP
 -------------------------------------------------------------- */
 .google-map {
-   width: 100%; 
+   width: 100%;
    height: 400px;
 }
-.google-map img { 
-   max-width: none; 
+.google-map img {
+   max-width: none;
 }
-.map { 
-  margin-bottom: 100px; 
+.map {
+  margin-bottom: 100px;
 }
 
 .map-side-text {
@@ -3581,7 +3581,7 @@ section#contact .form-text h4 {
 }
 .map-side-icon {
 	font-size: 65px;
-    color: #1ABC9C;
+    color: #3366ff;
     margin-top: 5%;
     padding: 15px;
     text-align: center;
@@ -3589,18 +3589,18 @@ section#contact .form-text h4 {
     border-radius: 50%;
     width: 104px;
 }
-	
+
 @media (max-width: 767px) {
- .map { 
-  padding: 0 20px; 
+ .map {
+  padding: 0 20px;
 }
- .row .map { 
-  padding: 0; 
+ .row .map {
+  padding: 0;
 }
 }
 /* GOOGLE MAP END
 -------------------------------------------------------------- */
-	
+
 
 /* TECHNOLOGIES WE USE
 -------------------------------------------------------------- */
@@ -3644,7 +3644,7 @@ section#contact .form-text h4 {
 	line-height:26px;
 	color:rgba(255,255,255,0.9);
 	position:absolute;
-	top:350px;	
+	top:350px;
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
@@ -3660,7 +3660,7 @@ section#contact .form-text h4 {
 .technologies .ui-item span strong {
 	display:block;
 	font-size:18px;
-	color:#fff;	
+	color:#fff;
 }
 
 .bg-html {
@@ -3720,7 +3720,7 @@ section#contact .form-text h4 {
 	margin:50px auto;
 }
 .bubble-worldwide-color {
-	color: #1ABC9C;
+	color: #3366ff;
 }
 
 @media (min-width:993px) {
@@ -3752,7 +3752,7 @@ section#contact .form-text h4 {
 	-ms-transform:translateX(-50%) translateY(-50%);
 	-o-transform:translateX(-50%) translateY(-50%);
 	transform:translateX(-50%) translateY(-50%);
-	color:#1ABC9C;
+	color:#3366ff;
 	text-transform:uppercase;
 	letter-spacing:2px;
 	font-size:30px;
@@ -4025,7 +4025,7 @@ section#contact .form-text h4 {
 	text-align:center;
 	color:#000;
 }
-.social-style-one .ui-details:after, 
+.social-style-one .ui-details:after,
 .social-style-one .ui-details:before {
 	top:96%;
 	left:60%;
@@ -4066,10 +4066,10 @@ section#contact .form-text h4 {
 		 -o-transition: all 0.35s ease-out;
 			transition: all 0.35s ease-out;
 }
-.masonry-social-media .social-item i { 
-    color: #fff; 
+.masonry-social-media .social-item i {
+    color: #fff;
 }
-.masonry-social-media .twitter { 
+.masonry-social-media .twitter {
 	top: 0;
 	left: 0;
 	z-index: 115;
@@ -4168,10 +4168,10 @@ section#contact .form-text h4 {
 	.masonry-social-media .social-container  {
 		max-width: 250px !important;
 	}
-	.masonry-social-media .social-item { 
+	.masonry-social-media .social-item {
 		margin-bottom: 0px !important;
 		margin-left: 0px !important;
-		width: 49% !important; 
+		width: 49% !important;
 	}
 }
 
@@ -4192,7 +4192,7 @@ section#contact .form-text h4 {
 		margin: 0 auto;
 		margin-top: 3px;
 		padding: 20px 0;
-	} 
+	}
     .masonry-social-media {
 	margin:50px 0px;
     }
@@ -4251,7 +4251,7 @@ section#contact .form-text h4 {
   height: 60px;
   line-height: 54px;
   color: #ffffff;
-  background-color: #1ABC9C;
+  background-color: #3366ff;
   font-size: 25px;
   text-align: center;
   border-radius: 50%;
@@ -4324,7 +4324,7 @@ footer ul li {
 	list-style: none;
 }
 footer span {
-	color: #1ABC9C;
+	color: #3366ff;
 }
 footer h5 {
 }
@@ -4347,7 +4347,7 @@ footer .small-info h1 {
     font-weight: 600;
 }
 footer .small-info h1 i {
-	color: #1ABC9C;
+	color: #3366ff;
 }
 footer .small-info .social_icons {
 	text-align: center;
@@ -4483,7 +4483,7 @@ footer .timing p span {
 }
 .footer-modal i {
 	font-size: 30px;
-	color: #1ABC9C;
+	color: #3366ff;
 }
 .footer-modal p {
 	padding: 8px 35px;
@@ -4509,7 +4509,7 @@ footer .timing p span {
 	border-radius: 0px;
 }
 
-@media (min-width: 768px) { 
+@media (min-width: 768px) {
 .modal-dialog {
     width: 100%;
     margin: 0px;
@@ -4541,7 +4541,7 @@ footer .timing p span {
 }
 
 .tooltip-wrapper .tooltip-item {
-  background: #1ABC9C;
+  background: #3366ff;
   bottom: 100%;
   color: #fff;
   display: block;
@@ -4582,7 +4582,7 @@ footer .timing p span {
 .tooltip-wrapper .tooltip-item:after {
   border-left: solid transparent 10px;
   border-right: solid transparent 10px;
-  border-top: solid #1ABC9C 10px;
+  border-top: solid #3366ff 10px;
   bottom: -10px;
   content: " ";
   height: 0;
@@ -4706,7 +4706,7 @@ footer .timing p span {
 	padding-bottom: 30px;
 }
 .maintenance-box span {
-	color: #1ABC9C;
+	color: #3366ff;
     font-size: 30px;
 }
 .maintenance-box-icon {
@@ -4757,7 +4757,7 @@ footer .timing p span {
 	width: 50%;
 	margin-left: 25%;
   }
-  
+
   .maintenance-box-joiner {
 	display: none;
 }
@@ -4765,14 +4765,14 @@ footer .timing p span {
   .right-box-set {
 	margin-left: 25%;
 }
-  
+
   .maintenance-box h2 {
 	 font-size: 25px;
 }
-  
+
   .maintenance-box-icon {
 	 font-size: 80px;
-	
+
 }
 }
 
@@ -4780,10 +4780,10 @@ footer .timing p span {
 	.maintenance-box h2 {
 	 font-size: 20px;
 }
-  
+
   .maintenance-box-icon {
 	 font-size: 50px;
-	
+
 }
 
    .maintenance-box h6 {
@@ -4827,7 +4827,7 @@ footer .timing p span {
 /* COMING SOON
 -------------------------------------------------------------- */
 .launch-date {
-  background-color: #1ABC9C;
+  background-color: #3366ff;
   color: #ffffff;
   height: 311px;
   padding: 20px 0;
@@ -4836,7 +4836,7 @@ footer .timing p span {
   text-transform: uppercase;
 }
 .launch-date i {
-  color: #1ABC9C;
+  color: #3366ff;
   font-size: 80px;
   left: -25px;
   position: absolute;
@@ -4894,7 +4894,7 @@ footer .timing p span {
   line-height: 80px;
 }
 .countdown-wrapper .timer li span:last-child {
-  color: #1ABC9C;
+  color: #3366ff;
   display: inline-block;
   font-size: 30px;
   font-weight: 300;
@@ -5046,10 +5046,10 @@ footer .timing p span {
    background-color: transparent;
    border: 4px double #dedede;
    text-decoration: none;
-   color: #1ABC9C
+   color: #3366ff
 }
 .login-area-btn:hover{
-   background-color: #1ABC9C;
+   background-color: #3366ff;
    color:#ffffff;
 }
 .login-area .form-box .form-box-inner {
@@ -5210,7 +5210,7 @@ footer .timing p span {
   text-decoration: none;
 }
 .login-area .forgot-password a:hover {
-  color: #1ABC9C;
+  color: #3366ff;
 }
 .login-area .divider {
   border-left: none;
@@ -5274,7 +5274,7 @@ footer .timing p span {
     text-align: center;
 }
 .login-area-logo i {
-	color: #1ABC9C;
+	color: #3366ff;
 }
 .login-close-modal {
 	margin-top: 33px;
@@ -5442,7 +5442,7 @@ footer .timing p span {
 	    -ms-transition: background-color .16s ease-in-out;
 	     -o-transition: background-color .16s ease-in-out;
             transition: background-color .16s ease-in-out;
-    color: #1ABC9C;
+    color: #3366ff;
     background-color: white;
 }
 
@@ -5471,7 +5471,7 @@ footer .timing p span {
 }
 
 .timeline-load-button-spacer .load-more-btn {
-	background: #1ABC9C;
+	background: #3366ff;
     color: #fff;
     border: 4px double;
 }
@@ -5623,10 +5623,10 @@ ul.pagination > li > a i{
   margin-right:5px;
 }
 
-ul.pagination > li.active > a, 
+ul.pagination > li.active > a,
 ul.pagination > li:hover > a,
 ul.pagination > li:focus > a {
-  background-color: #1ABC9C !important;
+  background-color: #3366ff !important;
   border-color: #dedede !important;
   color: #fff;
 }
@@ -5642,7 +5642,7 @@ blockquote {
   margin-bottom: 30px;
   border-left: none;
   color: #fff;
-  background-color: #1ABC9C;
+  background-color: #3366ff;
 }
 blockquote:before {
   content: "\f10d";
@@ -5775,7 +5775,7 @@ blockquote footer {
 -------------------------------------------------------------- */
 .post-comments {
 	float:left;
-	width:100%;	
+	width:100%;
 	padding:30px 0px;
 	margin-bottom:30px;
 }
@@ -5847,7 +5847,7 @@ blockquote footer {
 	text-decoration:none;
 }
 .post-comments ul li a.reply:hover{
-	background-color: #1ABC9C;
+	background-color: #3366ff;
 	color: #ffffff;
 }
 
@@ -5910,7 +5910,7 @@ blockquote footer {
 .widget h3.widget-title {
 	position: relative;
 	margin: 0;
-	padding: 0;			
+	padding: 0;
 	color: rgb(63, 63, 63);
 	font-size: 14px;
 	font-weight: 700;
@@ -5963,7 +5963,7 @@ blockquote footer {
 	font-size: 14px;
 	font-style: italic;
 	line-height: 1;
-	color: #1ABC9C;
+	color: #3366ff;
 	font-weight: 500;
 	margin-bottom: 23px;
 }
@@ -6037,14 +6037,14 @@ blockquote footer {
 	line-height: 0;
 }
 .tags-cloud-widget a {
-	background-color: #1ABC9C;
+	background-color: #3366ff;
 	border-radius: 2px;
 	color: #fff;
 	display: inline-block;
 	line-height: 1;
 	font-size: 11px;
 	font-family: Montserrat;
-	padding: 6px 7px;					
+	padding: 6px 7px;
 	margin-bottom: 4px;
 	margin-right: 4px;
 	text-transform: uppercase;
@@ -6081,11 +6081,11 @@ blockquote footer {
 
 .search-form input[type="search"]:focus,
 .search-form input[type="text"]:focus {
-	border-color:#1ABC9C;	
+	border-color:#3366ff;
 }
 
 .search-form .form-group {
-	position:relative;	
+	position:relative;
 }
 
 .search-form button {
@@ -6100,7 +6100,7 @@ blockquote footer {
 	text-align:center;
 	font-size:16px;
 	color:#ffffff;
-	background:#1ABC9C;	
+	background:#3366ff;
 	border: 0px;
 	outline: 0;
 }
@@ -6110,7 +6110,7 @@ blockquote footer {
 	-webkit-transform:scale(1.3);
 	-moz-transform:scale(1.3);
 	-ms-transform:scale(1.3);
-	-o-transform:scale(1.3);	
+	-o-transform:scale(1.3);
 }
 
 
@@ -6155,11 +6155,11 @@ blockquote footer {
   text-decoration: none;
 }
 .blog_category li a:hover{
-  background:#1ABC9C;
+  background:#3366ff;
   color: #fff;
 }
 .badge:before {
-  border-color: transparent transparent transparent #1ABC9C;
+  border-color: transparent transparent transparent #3366ff;
   border-style: solid;
   border-width: 10px;
   bottom: -8px;
@@ -6169,7 +6169,7 @@ blockquote footer {
   position: absolute;
 }
 .badge {
-  background-color: #1ABC9C;
+  background-color: #3366ff;
   border-radius: 5px;
   color: #fff;
   padding: 8px;
@@ -6354,7 +6354,7 @@ blockquote footer {
     top: -5px; }
   .fa-examples > div .text-muted {
     display: none; }
-	
+
 
 
 .et-examples > span {
@@ -6388,8 +6388,8 @@ blockquote footer {
   .et-examples > span span {
     position: relative;
     top: -8px; }
-	
-	
+
+
 .sl-examples > div {
   display: block;
   width: 25%;
@@ -6421,8 +6421,8 @@ blockquote footer {
   .sl-examples > div span {
     position: relative;
     top: -5px; }
-	
-	
+
+
 .glyphicon-examples > div {
   display: block;
   width: 25%;
@@ -6454,7 +6454,7 @@ blockquote footer {
   .glyphicon-examples > div span {
     position: relative;
     top: -5px; }
-	
+
 
 .el-examples > span {
   display: block;
@@ -6489,9 +6489,9 @@ blockquote footer {
     top: -8px; }
   .el-examples > span .text-muted {
     display: none; }
-	
 
-	
+
+
 .icons-div {
     border: 1px solid #eee;
     padding: 0;
@@ -6632,7 +6632,7 @@ blockquote footer {
 }
 
 /* LARGE & MEDIUM BUTTONS END
--------------------------------------------------------------- */ 
+-------------------------------------------------------------- */
 
 
 /* ICON BOX STYLE FOUR
@@ -6720,11 +6720,11 @@ blockquote footer {
 }
 .icon-box-5 i {
 	font-size: 40px;
-	color: #1ABC9C;
+	color: #3366ff;
 	margin-bottom: 18px;
 }
 .icon-box-5:hover{
-    background: #1ABC9C;
+    background: #3366ff;
     -webkit-transform: scale(1.1);
 	-moz-transform: scale(1.1);
      -ms-transform: scale(1.1);
@@ -6739,7 +6739,7 @@ blockquote footer {
 .icon-box-5:hover i {
    transform: rotate(360deg) scale(1.3);
   -ms-transform:rotate(360deg) scale(1.3);
-  -webkit-transform:rotate(360deg) scale(1.3); 
+  -webkit-transform:rotate(360deg) scale(1.3);
    transition-duration:.7s;
    transition-property: all;
    transition-timing-function: ease;
@@ -6780,9 +6780,9 @@ blockquote footer {
   font-size: 40px;
   line-height: 90px;
   border-radius: 70px;
-  border: 1px solid #1ABC9C;
+  border: 1px solid #3366ff;
   position: relative;
-  color: #1ABC9C;
+  color: #3366ff;
   -webkit-transition: color 0.6s, border-color 0.6s;
      -moz-transition: color 0.6s, border-color 0.6s;
 	  -ms-transition: color 0.6s, border-color 0.6s;
@@ -6824,7 +6824,7 @@ blockquote footer {
   position: absolute;
   top: 100%;
   left: 0;
-  background: #1ABC9C;
+  background: #3366ff;
   opacity: 0;
   -webkit-transition: top 0.5s, opacity 0.5s;
      -moz-transition: top 0.5s, opacity 0.5s;
@@ -6878,7 +6878,7 @@ blockquote footer {
 	position:absolute;
 	left:0;
 	font-size:40px;
-	color: #1ABC9C;
+	color: #3366ff;
 }
 .icon-box-7:hover i {
 	transform: scale(1.2);
@@ -6916,7 +6916,7 @@ blockquote footer {
 	padding: 13px;
 }
 .icon-box-8 i {
-    background: #1ABC9C;
+    background: #3366ff;
     font-size: 30px;
     padding: 20px;
     color: #fff;
@@ -6930,13 +6930,13 @@ blockquote footer {
     left: 40%;
 }
 .icon-box-8:hover i{
-	background : #1ABC9C;
+	background : #3366ff;
 	color: #fff;
 	transform: rotate(360deg) scale(1.3);
    -ms-transform:rotate(360deg) scale(1.3);
    -0-transform:rotate(360deg) scale(1.3);
    -moz-transform:rotate(360deg) scale(1.3);
-   -webkit-transform:rotate(360deg) scale(1.3); 
+   -webkit-transform:rotate(360deg) scale(1.3);
     transition-duration:.7s;
 	-webkit-transition-duration:.7s;
 	-moz-transition-duration:.7s;
@@ -6991,26 +6991,26 @@ blockquote footer {
 .info-box-a p {
 	color: #dedede;
 }
-.info-box-a .bg-overlay { 
-    opacity:0.6; 
-	-webkit-transition:all 0.3s ease-out; 
-	transition:all 0.3s ease-out; 
+.info-box-a .bg-overlay {
+    opacity:0.6;
+	-webkit-transition:all 0.3s ease-out;
+	transition:all 0.3s ease-out;
 }
-.info-box-a:hover .bg-overlay { 
-    opacity:0.5; 
-	-webkit-transition:all 0.3s ease-out; 
-	transition:all 0.3s ease-out; 
+.info-box-a:hover .bg-overlay {
+    opacity:0.5;
+	-webkit-transition:all 0.3s ease-out;
+	transition:all 0.3s ease-out;
 }
 .info-box-a .title-uppercased {
 		font-size:18px;
 		color:#dedee3;
 		margin-bottom:20px;
-		-webkit-transition:all 0.3s ease-out; 
+		-webkit-transition:all 0.3s ease-out;
 		transition:all 0.3s ease-out;
 }
 .info-box-a:hover .title-uppercased {
 		color:rgb(181,67,33);
-		-webkit-transition:all 0.3s ease-out; 
+		-webkit-transition:all 0.3s ease-out;
 		transition:all 0.3s ease-out;
 }
 .info-box-b {
@@ -7037,18 +7037,18 @@ blockquote footer {
 }
 .info-box-a.info-box-b:hover .title-uppercased {
 		color:#d2d2d9;
-		-webkit-transition:all 0.3s ease-out; 
+		-webkit-transition:all 0.3s ease-out;
 		transition:all 0.3s ease-out;
 }
-.info-box-a.info-box-b .bg-overlay { 
-    opacity:0.6; 
-	-webkit-transition:all 0.3s ease-out; 
-	transition:all 0.3s ease-out; 
+.info-box-a.info-box-b .bg-overlay {
+    opacity:0.6;
+	-webkit-transition:all 0.3s ease-out;
+	transition:all 0.3s ease-out;
 }
-.info-box-a.info-box-b:hover .bg-overlay { 
-     opacity:0.3; 
-	 -webkit-transition:all 0.3s ease-out; 
-	 transition:all 0.3s ease-out; 
+.info-box-a.info-box-b:hover .bg-overlay {
+     opacity:0.3;
+	 -webkit-transition:all 0.3s ease-out;
+	 transition:all 0.3s ease-out;
 }
 
 /* ICON BOX STYLE NINE END
@@ -7087,18 +7087,18 @@ blockquote footer {
 }
 .icon-box-10 p { }
 .icon-box-10:hover {
-    background: #1ABC9C;
-    border: 4px double #1ABC9C;
+    background: #3366ff;
+    border: 4px double #3366ff;
 }
 .icon-box-10:hover > i {
     background: #fff;
-    color: #1ABC9C;
+    color: #3366ff;
 }
-.icon-box-10:hover > h5 { 
-    color: #ffffff; 
+.icon-box-10:hover > h5 {
+    color: #ffffff;
 }
-.icon-box-10:hover > p { 
-    color: #ffffff; 
+.icon-box-10:hover > p {
+    color: #ffffff;
 }
 .color-icon-1 {
     background: #3ACFF0 none repeat scroll 0 0;
@@ -7136,7 +7136,7 @@ blockquote footer {
     margin-bottom: 32px;
 }
 .typewrite{
-	border-right: solid 2px #1ABC9C;
+	border-right: solid 2px #3366ff;
 	margin-right: 5px;
 	padding-right: 5px;
 }
